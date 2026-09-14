@@ -6,7 +6,7 @@ The project includes data analysis, preprocessing, model comparison, hyperparame
 
 ## 🚀 Live Demo
 
-[Open the Employee Attrition Prediction App](https://employee-attrition-rate.streamlit.app/)
+[Open the Employee Attrition Prediction App](https://employee-attrition-rate.streamlit.app)
 
 ## 📌 Project Objective
 
